@@ -9,7 +9,7 @@ Summary:	IO::Cat perl module
 Summary(pl):	Modu³ perla IO::Cat
 Name:		perl-IO-Cat
 Version:	1.01
-Release:	9
+Release:	10
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz

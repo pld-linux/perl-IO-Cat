@@ -5,8 +5,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	IO
 %define	pnam	Cat
-Summary:	IO::Cat perl module
-Summary(pl):	Modu³ Perla IO::Cat
+Summary:	IO::Cat - object-oriented Perl implementation of cat(1)
+Summary(pl):	IO::Cat - obiektowa implementacja cat(1) dla Perla
 Name:		perl-IO-Cat
 Version:	1.01
 Release:	10

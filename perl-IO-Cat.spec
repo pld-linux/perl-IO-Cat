@@ -1,12 +1,11 @@
+%include	/usr/lib/rpm/macros.perl
 %define	pdir	IO
 %define	pnam	Cat
-%include	/usr/lib/rpm/macros.perl
 Summary:	IO-Cat perl module
 Summary(pl):	Modu³ perla IO-Cat
 Name:		perl-IO-Cat
 Version:	1.01
-Release:	7
-
+Release:	8
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -23,7 +22,7 @@ IO-Cat - zorientowana obiektowo implementacja programu cat(1) dla
 perla.
 
 %prep
-%setup -q -n IO-Cat-%{version}
+%setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
 perl Makefile.PL

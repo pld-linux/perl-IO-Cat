@@ -6,7 +6,7 @@
 %define	pdir	IO
 %define	pnam	Cat
 Summary:	IO::Cat perl module
-Summary(pl):	Modu³ perla IO::Cat
+Summary(pl):	Modu³ Perla IO::Cat
 Name:		perl-IO-Cat
 Version:	1.01
 Release:	10
@@ -24,7 +24,7 @@ IO::Cat - Object-oriented Perl implementation of cat(1).
 
 %description -l pl
 IO::Cat - zorientowana obiektowo implementacja programu cat(1) dla
-perla.
+Perla.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

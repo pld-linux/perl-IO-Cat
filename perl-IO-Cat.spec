@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	IO
-%define	pnam	Cat
+%define		pdir	IO
+%define		pnam	Cat
 Summary:	IO::Cat - object-oriented Perl implementation of cat(1)
 Summary(pl):	IO::Cat - obiektowa implementacja cat(1) dla Perla
 Name:		perl-IO-Cat

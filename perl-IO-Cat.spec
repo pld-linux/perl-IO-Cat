@@ -3,7 +3,7 @@ Summary:	IO-Cat perl module
 Summary(pl):	Modu³ perla IO-Cat
 Name:		perl-IO-Cat
 Version:	1.01
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl

@@ -6,7 +6,7 @@ Summary(pl):	Modu³ perla IO::Cat
 Name:		perl-IO-Cat
 Version:	1.01
 Release:	9
-License:	GPL
+License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	6ee423e4b025fd4148c7dafee4d2eec3
